@@ -1,0 +1,9 @@
+{
+  "name": "maintainable-gruntfile",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "load-grunt-config":"~0.6.0"
+  }
+}
